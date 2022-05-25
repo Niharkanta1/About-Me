@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Niharkanta1/about-me/static/css/main.073c9b0a.css",
+    "main.js": "/Niharkanta1/about-me/static/js/main.b7a7785c.js",
+    "static/js/787.bf6be429.chunk.js": "/Niharkanta1/about-me/static/js/787.bf6be429.chunk.js",
+    "static/media/logo.svg": "/Niharkanta1/about-me/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Niharkanta1/about-me/index.html",
+    "main.073c9b0a.css.map": "/Niharkanta1/about-me/static/css/main.073c9b0a.css.map",
+    "main.b7a7785c.js.map": "/Niharkanta1/about-me/static/js/main.b7a7785c.js.map",
+    "787.bf6be429.chunk.js.map": "/Niharkanta1/about-me/static/js/787.bf6be429.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b7a7785c.js"
+  ]
+}
