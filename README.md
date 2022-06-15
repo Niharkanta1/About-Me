@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployement Address:: https://niharkanta1.github.io/about-me/
+
 ## Available Scripts
 
 In the project directory, you can run:
